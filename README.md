@@ -1,2 +1,2 @@
 # SDIF-Edit
-3D vizualization for SDIF sound description data files
+3D visualization for SDIF sound description data files
