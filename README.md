@@ -17,3 +17,12 @@ SDIF-Edit uses the following libraries :
   * [OpenGL](http://www.opengl.org/)/[GLUT](http://www.opengl.org/resources/libraries/glut.html): linked dynamically (needs to be previously installed on your system)
 
 For an optimal use, a GLUT release including the glutCheckLoop et glutWMCloseFunc features should be preferred (see [Some modifcations to the standard glut](http://www-users.york.ac.uk/~rpf1/glut.html). These modifications are generally included in the recent GLUT releases (at least on MacOSX and Windows). However, the standard GLUT should work as well...
+
+
+---------
+### Publication
+
+For additional info, or to cite this work:
+
+  * Bresson, J, Agon, C.: SDIF Sound Description Data Representation and Manipulation in Computer Assisted Composition]]. Proceedings of the International Computer Music Conference (ICMC'04), University of Miami, USA, 2004. [[PDF]](https://hal.archives-ouvertes.fr/hal-01161261)
+
