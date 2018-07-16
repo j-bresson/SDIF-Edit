@@ -25,7 +25,7 @@ SDIF-Edit uses the following libraries :
 For an optimal use, a GLUT release including the glutCheckLoop et glutWMCloseFunc features should be preferred (see [Some modifcations to the standard glut](http://www-users.york.ac.uk/~rpf1/glut.html). These modifications are generally included in the recent GLUT releases (at least on MacOSX and Windows). However, the standard GLUT should work as well...
 
 ---------
-<img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdifedit-om.jpg" width="250pt" align="right">
+<img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdifedit-om.png" width="300pt" align="right">
 
 ### OpenMusic interface
 
@@ -40,9 +40,11 @@ For additional info, or to cite this work:
   * J. Bresson and C. Agon: SDIF Sound Description Data Representation and Manipulation in Computer Assisted Composition]]. Proceedings of the International Computer Music Conference (ICMC'04), University of Miami, USA, 2004. [[PDF]](https://hal.archives-ouvertes.fr/hal-01161261)
   
 ---------
+<img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdifedit-gui.jpg" width="300pt" align="right">
+
 ### Documentation
 
-See the project's [wiki pages](https://github.com/j-bresson/SDIF-Edit/wiki)
+See the project's [wiki pages](https://github.com/j-bresson/SDIF-Edit/wiki).
 
 
 
