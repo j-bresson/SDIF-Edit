@@ -46,7 +46,7 @@ SDIF-Edit can be used as an editor for the SDIFFILE object in [OpenMusic](http:/
 
 For additional info, or to cite this work:
 
-  * J. Bresson and C. Agon: SDIF Sound Description Data Representation and Manipulation in Computer Assisted Composition]]. Proceedings of the International Computer Music Conference (ICMC'04), University of Miami, USA, 2004. [[PDF]](https://hal.archives-ouvertes.fr/hal-01161261)
+  * J. Bresson and C. Agon: SDIF Sound Description Data Representation and Manipulation in Computer Assisted Composition. Proceedings of the International Computer Music Conference (ICMC'04), University of Miami, USA, 2004. [[PDF]](https://hal.archives-ouvertes.fr/hal-01161261)
   
 ---------
 
