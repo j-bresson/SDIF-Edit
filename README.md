@@ -49,11 +49,10 @@ For additional info, or to cite this work:
   * J. Bresson and C. Agon: SDIF Sound Description Data Representation and Manipulation in Computer Assisted Composition]]. Proceedings of the International Computer Music Conference (ICMC'04), University of Miami, USA, 2004. [[PDF]](https://hal.archives-ouvertes.fr/hal-01161261)
   
 ---------
-<img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdifedit-gui.jpg" width="300pt" align="right">
 
 ### Documentation
 
-See the project's [wiki pages](https://github.com/j-bresson/SDIF-Edit/wiki).
+See the project's [wiki pages](https://github.com/j-bresson/SDIF-Edit/wiki/User-Manual).
 
 
 
