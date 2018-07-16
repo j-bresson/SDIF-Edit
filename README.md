@@ -7,7 +7,7 @@ SDIF is used as export format by various sound analysis/synthesis and computer m
 
 SDIF-Edit proposes a generic graphical representation of SDIF data, i.e. independant from the type of data contained in the SDIF file. It allows to browse the file structure (streams, matrices), and then to represent and edit graphically the data contained in these structures. 
 
-<center><img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdif-edit-1.png" width="600pt" align="middle"></center>
+<img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdif-edit-1.png" width="600pt" align="middle">
 
 --------
 ### License and copyright
@@ -25,7 +25,7 @@ SDIF-Edit uses the following libraries :
 For an optimal use, a GLUT release including the glutCheckLoop et glutWMCloseFunc features should be preferred (see [Some modifcations to the standard glut](http://www-users.york.ac.uk/~rpf1/glut.html). These modifications are generally included in the recent GLUT releases (at least on MacOSX and Windows). However, the standard GLUT should work as well...
 
 ---------
-<img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdifedit-om.png" width="300pt" align="right">
+<img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdifedit-om.jpg" width="300pt" align="right">
 
 ### OpenMusic interface
 
