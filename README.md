@@ -33,7 +33,7 @@ For additional info, or to cite this work:
   * J. Bresson and C. Agon: SDIF Sound Description Data Representation and Manipulation in Computer Assisted Composition]]. Proceedings of the International Computer Music Conference (ICMC'04), University of Miami, USA, 2004. [[PDF]](https://hal.archives-ouvertes.fr/hal-01161261)
   
 ---------
-Documentation
+### Documentation
 
 See the project's [wiki pages](https://github.com/j-bresson/SDIF-Edit/wiki)
 
