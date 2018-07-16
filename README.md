@@ -15,6 +15,13 @@ SDIF-Edit proposes a generic graphical representation of SDIF data, i.e. indepen
 This project is released under the GPLv3 license.
 (c) Jean Bresson — Ircam 2003-2004.
 
+---------
+### Compilation
+
+SDIF-Edit is written in C++. All GUI and graphical interaction is in OpenGL/GLUT (see below).
+
+Just use Makefile in your favorite platform !
+
 --------
 ### Dependencies
 
