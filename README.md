@@ -1,4 +1,7 @@
+
 # SDIF-Edit
+
+<img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdif-edit-1.png" width="500pt" align="right">
 
 SDIF-Edit is a tool for the visalization SDIF sound description data.
 
@@ -7,7 +10,6 @@ SDIF is used as export format by various sound analysis/synthesis and computer m
 
 SDIF-Edit proposes a generic graphical representation of SDIF data, i.e. independant from the type of data contained in the SDIF file. It allows to browse the file structure (streams, matrices), and then to represent and edit graphically the data contained in these structures. 
 
-<img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdif-edit-1.png" width="600pt" align="middle">
 
 --------
 ### License and copyright
