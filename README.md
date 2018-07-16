@@ -25,7 +25,7 @@ SDIF-Edit is written in C++. All GUI and graphical interaction is in OpenGL/GLUT
 Just use Makefile in your favorite platform !
 
 ---------
-# Run
+### Run
 
 Form a command-line Terminal, just type:
 
