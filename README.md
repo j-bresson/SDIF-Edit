@@ -10,6 +10,12 @@ SDIF-Edit proposes a generic graphical representation of SDIF data, i.e. indepen
 <img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdif-edit-1.png" width="600pt" align="middle">
 
 --------
+### License and copyright
+
+This project is released under the GPLv3 license.
+(c) Jean Bresson — Ircam 2003-2004.
+
+--------
 ### Dependencies
 
 SDIF-Edit uses the following libraries :
@@ -24,5 +30,13 @@ For an optimal use, a GLUT release including the glutCheckLoop et glutWMCloseFun
 
 For additional info, or to cite this work:
 
-  * Bresson, J, Agon, C.: SDIF Sound Description Data Representation and Manipulation in Computer Assisted Composition]]. Proceedings of the International Computer Music Conference (ICMC'04), University of Miami, USA, 2004. [[PDF]](https://hal.archives-ouvertes.fr/hal-01161261)
+  * J. Bresson and C. Agon: SDIF Sound Description Data Representation and Manipulation in Computer Assisted Composition]]. Proceedings of the International Computer Music Conference (ICMC'04), University of Miami, USA, 2004. [[PDF]](https://hal.archives-ouvertes.fr/hal-01161261)
+  
+---------
+Documentation
+
+See the project's [wiki pages](https://github.com/j-bresson/SDIF-Edit/wiki)
+
+
+
 
