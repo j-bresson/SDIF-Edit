@@ -27,7 +27,7 @@ Just use Makefile in your favorite platform !
 ---------
 ### Run
 
-Form a command-line Terminal, just type:
+In a command-line Terminal, just type:
 
 ```
 ./SDIF-Edit /<path-to-file>/<filename>.sdif
