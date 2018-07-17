@@ -10,6 +10,7 @@ SDIF is used as export format by various sound analysis/synthesis and computer m
 
 SDIF-Edit proposes a generic graphical representation of SDIF data, i.e. independant from the type of data contained in the SDIF file. It allows to browse the file structure (streams, matrices), and then to represent and edit graphically the data contained in these structures. 
 
+_SDIF-Edit won the Special Prize of the Jury, at the music software contest [LoMus 2006](http://concours.afim-asso.org/2006/) organized by AFIM, the French computer music association._
 
 --------
 ### License and copyright
