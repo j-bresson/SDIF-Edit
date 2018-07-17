@@ -60,7 +60,7 @@ For additional info, or to cite this work:
 
 ### Documentation
 
-See the project's [wiki pages](https://github.com/j-bresson/SDIF-Edit/wiki/User-Manual).
+See the project's [wiki pages](https://github.com/j-bresson/SDIF-Edit/wiki).
 
 
 
