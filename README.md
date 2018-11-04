@@ -40,7 +40,7 @@ SDIF-Edit uses the following libraries :
   * [SDIF](http://sourceforge.net/projects/sdif/files/sdif/): linked statically (does not need to be installed on your system in order to run the executables, but required to compile the project)
   * [OpenGL](http://www.opengl.org/)/[GLUT](http://www.opengl.org/resources/libraries/glut.html): linked dynamically (needs to be previously installed on your system)
 
-For an optimal use, a GLUT release including the glutCheckLoop et glutWMCloseFunc features should be preferred (see [Some modifcations to the standard glut](http://www-users.york.ac.uk/~rpf1/glut.html). These modifications are generally included in the recent GLUT releases (at least on MacOSX and Windows).
+For an optimal use, a GLUT release including the glutCheckLoop et glutWMCloseFunc features should be preferred. These modifications are generally included in the recent GLUT releases (at least on MacOSX and Windows).
 
 ---------
 <img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdifedit-om.jpg" width="300pt" align="right">
