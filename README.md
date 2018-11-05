@@ -10,6 +10,7 @@ SDIF is used as export format by various sound analysis/synthesis and computer m
 
 SDIF-Edit proposes a generic graphical representation of SDIF data, i.e. independant from the type of data contained in the SDIF file. It allows to browse the file structure (streams, matrices), and then to represent and edit graphically the data contained in these structures. 
 
+_Special Prize of the Jury: opensource music software contest [LoMus 2006](http://concours.afim-asso.org/2006/) organized by AFIM, the French computer music association._
 
 --------
 ### License and copyright
@@ -24,6 +25,14 @@ SDIF-Edit is written in C++. All GUI and graphical interaction is in OpenGL/GLUT
 
 Just use Makefile in your favorite platform !
 
+---------
+### Run
+
+In a command-line Terminal, just type:
+
+```
+./SDIF-Edit /<path-to-file>/<filename>.sdif
+```
 --------
 ### Dependencies
 
@@ -31,7 +40,7 @@ SDIF-Edit uses the following libraries :
   * [SDIF](http://sourceforge.net/projects/sdif/files/sdif/): linked statically (does not need to be installed on your system in order to run the executables, but required to compile the project)
   * [OpenGL](http://www.opengl.org/)/[GLUT](http://www.opengl.org/resources/libraries/glut.html): linked dynamically (needs to be previously installed on your system)
 
-For an optimal use, a GLUT release including the glutCheckLoop et glutWMCloseFunc features should be preferred (see [Some modifcations to the standard glut](http://www-users.york.ac.uk/~rpf1/glut.html). These modifications are generally included in the recent GLUT releases (at least on MacOSX and Windows). However, the standard GLUT should work as well...
+For an optimal use, a GLUT release including the glutCheckLoop et glutWMCloseFunc features should be preferred. These modifications are generally included in the recent GLUT releases (at least on MacOSX and Windows).
 
 ---------
 <img src="https://raw.githubusercontent.com/wiki/j-bresson/SDIF-Edit/images/sdifedit-om.jpg" width="300pt" align="right">
@@ -46,13 +55,13 @@ SDIF-Edit can be used as an editor for the SDIFFILE object in [OpenMusic](http:/
 
 For additional info, or to cite this work:
 
-  * J. Bresson and C. Agon: SDIF Sound Description Data Representation and Manipulation in Computer Assisted Composition]]. Proceedings of the International Computer Music Conference (ICMC'04), University of Miami, USA, 2004. [[PDF]](https://hal.archives-ouvertes.fr/hal-01161261)
+  * J. Bresson and C. Agon: SDIF Sound Description Data Representation and Manipulation in Computer Assisted Composition. Proceedings of the International Computer Music Conference (ICMC'04), University of Miami, USA, 2004. [[PDF]](https://hal.archives-ouvertes.fr/hal-01161261)
   
 ---------
 
 ### Documentation
 
-See the project's [wiki pages](https://github.com/j-bresson/SDIF-Edit/wiki/User-Manual).
+See the project's [wiki pages](https://github.com/j-bresson/SDIF-Edit/wiki).
 
 
 
