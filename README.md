@@ -48,7 +48,7 @@ For an optimal use, a GLUT release including the glutCheckLoop et glutWMCloseFun
 ### OpenMusic interface
 
 
-SDIF-Edit can be used as an editor for the SDIFFILE object in [OpenMusic](http://repmus.ircam.fr/openmusic/). This feature was integrated in OM 5 and 6. For OM 6.4 and higher versions, the use of SDIF-Edit requires preliminary loading of the library [SDIF-Edit4OM](https://forge.ircam.fr/p/omlibraries/downloads/173/). 
+SDIF-Edit can be used as an editor for the SDIFFILE object in [OpenMusic](http://repmus.ircam.fr/openmusic/). This feature was integrated in OM 5 and 6. For OM 6.4 and higher versions, the use of SDIF-Edit requires preliminary loading of the library [SDIF-Edit4OM](https://github.com/j-bresson/SDIF-Edit/blob/master/OM/SDIF-Edit4OM_1.1.zip). 
 
 ---------
 ### Publication
