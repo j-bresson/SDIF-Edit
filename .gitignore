@@ -1,6 +1,6 @@
 # Generated binary
 SDIF-Edit
-*.zip
+macos/*.zip
 
 # Prerequisites
 *.d
