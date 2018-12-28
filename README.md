@@ -21,7 +21,7 @@ This project is released under the GPLv3 license.
 ---------
 ### Sources
 
-https://github.com/j-bresson/SDIF-Edit
+[https://github.com/j-bresson/SDIF-Edit](https://github.com/j-bresson/SDIF-Edit)
 
 ----------
 ### Compilation
