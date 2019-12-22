@@ -13,6 +13,11 @@ SDIF-Edit proposes a generic graphical representation of SDIF data, i.e. indepen
 _Special Prize of the Jury: opensource music software contest [LoMus 2006](http://concours.afim-asso.org/2006/) organized by AFIM, the French computer music association._
 
 --------
+### Download
+
+<https://github.com/j-bresson/SDIF-Edit/releases>
+
+--------
 ### License and copyright
 
 This project is released under the GPLv3 license.
